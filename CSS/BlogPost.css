@@ -1,8 +1,9 @@
 body{
-    color: rgb(0, 0, 0);
+    background:black;
+    color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 27px;
     margin: 0;
     padding: 0;
 }
@@ -13,6 +14,10 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+#cabecera #logo{
+    width: 30px;
+    vertical-align: middle;
 }
 #cabecera #tagline{
     padding: 0 0 0 1em;
@@ -30,5 +35,6 @@ body{
     font-size: 20px;
 }
 #post{
+    background: white;
     padding: 1em;
 }
