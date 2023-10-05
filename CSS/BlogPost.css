@@ -38,3 +38,9 @@ body{
     background: white;
     padding: 1em;
 }
+#footer{
+    background: red;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
