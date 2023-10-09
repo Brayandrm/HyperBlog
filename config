@@ -1,0 +1,4 @@
+Hots 
+	AddKeysToAgent yes
+	UserKeychain yes 
+	IdentifyFile ~/.ssh/id_rsa
