@@ -39,8 +39,12 @@ body{
     padding: 1em;
 }
 #footer{
-    background: red;
+    background: rgb(99, 255, 8);
     color: white;
     text-align: center;
     padding: 0.5em;
+}
+#footer #log2_0{
+width: 30px;
+vertical-align: middle;
 }
